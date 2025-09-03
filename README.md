@@ -6,7 +6,7 @@ Um projeto simples de **Relógio Digital** feito com **HTML, CSS e JavaScript**,
 
 ## 📸 Pré-visualização
 
-![Prévisualização](preview.png)
+![Prévisualização](images/preview.png)
 
 ---
 
